@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Volodymyr Bartosevych 👋  
 
-<!--
-**VolodymyrBartosevych/VolodymyrBartosevych** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science graduate** with hands-on experience in **desktop, mobile, and game development**.  
+💡 Skilled in **C#, C++, .NET, Unity, and Unreal Engine**, with a strong foundation in **algorithms, databases, and modern frameworks**.  
+🚀 Quick learner and problem-solver, eager to grow as a **junior software engineer** within a collaborative team.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+<div align="center">
+
+<!-- Languages -->
+<img src="https://skillicons.dev/icons?i=cpp,cs,js&theme=light" />  
+
+<!-- Frameworks / Engines -->
+<img src="https://skillicons.dev/icons?i=dotnet,unity,unreal,react&theme=light" />  
+
+<!-- Databases -->
+<img src="https://skillicons.dev/icons?i=firebase&theme=light" />   
+
+<!-- Tools -->
+<img src="https://skillicons.dev/icons?i=git,jira&theme=light" />  
+
+</div>
+
+---
+
+## 📫 Connect with Me  
+
+- 📍 Based in Kraków, Poland  
+- 📧 [vova.bartosevych@gmail.com](mailto:vova.bartosevych@gmail.com)  
+<!-- - 💼 [LinkedIn](https://www.linkedin.com/in/) _(add your link) -->  
+ 
+
